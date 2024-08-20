@@ -83,7 +83,9 @@ button{
     margin: 25px;
     float: left;
 }
-
+.arrow{
+    height: 40px;
+}
 .flexContainer{
     display: flex;
     width: 33%;
